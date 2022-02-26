@@ -3422,3 +3422,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.26-16.19.13:721][445]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2022.02.26-16.19.13:727][445]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
 [2022.02.26-16.19.13:749][446]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.02.26-16.29.05:154][332]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.02.26-16.29.05:314][332]LogSavePackage: Moving '../../../../GameJam/GameJam/Saved/All_Objects_Auto10B4704A54D772AC6A9A2D79A7B9F98AE.tmp' to '../../../../GameJam/GameJam/Saved/Autosaves/Game/AnnParshina/Levels/All_Objects_Auto1.umap'
+[2022.02.26-16.29.05:317][332]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AnnParshina/Levels/All_Objects' took 0.195
+[2022.02.26-16.29.05:317][332]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.195
+[2022.02.26-16.42.25:454][721]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.26-16.42.25:454][721]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.26-16.42.38:902][ 94]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2022.02.26-16.42.49:795][339]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2022.02.26-16.46.33:469][921]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{5ba64ddb-7296-4349-af3a-ffbac9172703}.
+[2022.02.26-16.46.33:469][921]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.26-16.46.33:479][921]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.26-16.46.33:479][921]LogAudioMixer: Display: 1: FrontRight
+[2022.02.26-16.49.43:576][741]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.26-16.49.43:576][741]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
