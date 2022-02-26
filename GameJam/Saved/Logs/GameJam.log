@@ -8159,3 +8159,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.26-13.02.08:025][ 14]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
 [2022.02.26-13.02.08:026][ 14]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
 [2022.02.26-13.02.08:026][ 14]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.02.26-13.03.29:453][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.02.26-13.03.29:749][554]LogSavePackage: Moving '../../../../GameJam/GameJam/Saved/All_Objects_Auto150E3BC2E40B50FFF93356DA1B9560EC2.tmp' to '../../../../GameJam/GameJam/Saved/Autosaves/Game/AnnParshina/Levels/All_Objects_Auto1.umap'
+[2022.02.26-13.03.29:750][554]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AnnParshina/Levels/All_Objects' took 0.321
+[2022.02.26-13.03.29:750][554]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.321
+[2022.02.26-13.13.28:931][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.02.26-13.13.28:932][346]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AnnParshina/Levels/All_Objects' took 0.023
