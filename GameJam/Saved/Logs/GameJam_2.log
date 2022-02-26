@@ -3436,3 +3436,57 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.02.26-16.46.33:479][921]LogAudioMixer: Display: 1: FrontRight
 [2022.02.26-16.49.43:576][741]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2022.02.26-16.49.43:576][741]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.26-16.51.35:788][908]LogEditorViewport: Clicking on Actor (LMB): FireGun_C (FireGun)
+[2022.02.26-16.51.46:958][165]LogSlate: Window 'Source Control Login' being destroyed
+[2022.02.26-16.51.48:019][246]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape2)
+[2022.02.26-16.52.21:939][176]LogRenderer: Reallocating scene render targets to support 1392x692 Format 10 NumSamples 1 (Frame:1).
+[2022.02.26-16.54.33:761][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.02.26-16.54.33:766][201]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AnnParshina/Levels/All_Objects' took 0.034
+[2022.02.26-16.54.33:766][201]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/AnnParshina/Weapon/Drone] ([2] browsable assets)...
+[2022.02.26-16.54.33:777][201]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AnnParshina/Weapon/Drone.Drone]
+[2022.02.26-16.54.33:777][201]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnnParshina/Weapon/Drone]
+[2022.02.26-16.54.33:777][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnParshina/Weapon/Drone" FILE="../../../../GameJam/GameJam/Saved/Autosaves/Game/AnnParshina/Weapon/Drone_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2022.02.26-16.54.33:812][201]LogSavePackage: Moving '../../../../GameJam/GameJam/Saved/Drone_Auto2DD1E25B74C4E61A6C2746E981035CA34.tmp' to '../../../../GameJam/GameJam/Saved/Autosaves/Game/AnnParshina/Weapon/Drone_Auto2.uasset'
+[2022.02.26-16.54.33:813][201]LogFileHelpers: Auto-saving content packages took 0.047
+[2022.02.26-16.57.56:149][805]BlueprintLog: New page: Compile Drone
+[2022.02.26-16.57.56:204][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.02.26-16.57.56:296][805]LogSlate: Took 0.008565 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.26-17.02.33:346][303]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2022.02.26-17.02.33:374][303]LogAssetEditorSubsystem: Opening Asset editor for MapBuildDataRegistry /Game/AnnParshina/Level1_test_BuiltData.Level1_test_BuiltData
+[2022.02.26-17.02.50:346][100]LogLinker: Warning: [AssetLog] F:\GameJam\GameJam\Content\AnnParshina\Level1_test.umap: Failed to load '/Game/AnnParshina/Levels/Level1_test_BuiltData': Can't find file.
+[2022.02.26-17.02.50:346][100]LogLinker: Warning: [AssetLog] F:\GameJam\GameJam\Content\AnnParshina\Level1_test.umap: Failed to load '/Game/AnnParshina/Levels/Level1_test_BuiltData': Can't find file.
+[2022.02.26-17.02.50:396][100]LogLinker: Warning: [AssetLog] F:\GameJam\GameJam\Content\AnnParshina\Level1_test.umap: Failed to load '/Game/AnnParshina/Levels/Level1_test_BuiltData': Can't find file.
+[2022.02.26-17.02.50:398][100]LogLinker: Warning: [AssetLog] F:\GameJam\GameJam\Content\AnnParshina\Level1_test.umap: Failed to load '/Game/AnnParshina/Levels/Level1_test_BuiltData': Can't find file.
+[2022.02.26-17.02.50:398][100]LoadErrors: Failed to load /Game/AnnParshina/Levels/Level1_test_BuiltData.Level1_test_BuiltData Referenced by PersistentLevel
+[2022.02.26-17.02.51:530][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.02.26-17.02.53:176][213]LogSlate: Window 'Save Content' being destroyed
+[2022.02.26-17.02.53:284][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnParshina/Levels/All_Objects" FILE="../../../../GameJam/GameJam/Content/AnnParshina/Levels/All_Objects.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.02.26-17.02.53:308][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.02.26-17.02.53:462][213]LogSavePackage: Moving '../../../../GameJam/GameJam/Saved/All_Objects9170810648D69742CA1D099FEAEFA7F4.tmp' to '../../../../GameJam/GameJam/Content/AnnParshina/Levels/All_Objects.umap'
+[2022.02.26-17.02.53:469][213]LogFileHelpers: Saving map 'All_Objects' took 0.185
+[2022.02.26-17.02.53:478][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AnnParshina/Weapon/Drone" FILE="../../../../GameJam/GameJam/Content/AnnParshina/Weapon/Drone.uasset" SILENT=true
+[2022.02.26-17.02.53:513][213]LogSavePackage: Moving '../../../../GameJam/GameJam/Saved/DroneDBB42A85434C9C2AF2A0B6B99817C964.tmp' to '../../../../GameJam/GameJam/Content/AnnParshina/Weapon/Drone.uasset'
+[2022.02.26-17.02.53:533][213]LogAssetEditorSubsystem: Opening Asset editor for World /Game/AnnParshina/Level1_test.Level1_test
+[2022.02.26-17.02.53:533][213]Cmd: MAP LOAD FILE="../../../../GameJam/GameJam/Content/AnnParshina/Level1_test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.26-17.02.53:533][213]LightingResults: New page: Lighting Build
+[2022.02.26-17.02.53:533][213]LoadErrors: New page: Loading map: Level1_test.umap
+[2022.02.26-17.02.53:537][213]LogWorld: UWorld::CleanupWorld for All_Objects, bSessionEnded=true, bCleanupResources=true
+[2022.02.26-17.02.53:537][213]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.26-17.02.53:537][213]MapCheck: New page: Map Check
+[2022.02.26-17.02.53:537][213]LightingResults: New page: Lighting Build
+[2022.02.26-17.02.53:561][213]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.26-17.02.53:571][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.02.26-17.02.53:572][213]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level1_test'.
+[2022.02.26-17.02.53:639][213]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.26-17.02.53:639][213]LogAIModule: Creating AISystem for world Level1_test
+[2022.02.26-17.02.53:667][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.02.26-17.02.53:670][213]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.26-17.02.53:670][213]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,066ms to complete.
+[2022.02.26-17.02.53:670][213]LogFileHelpers: Loading map 'Level1_test' took 0.136
+[2022.02.26-17.02.53:687][213]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.26-17.02.53:687][213]LogContentValidation: Display: Validating Blueprint /Game/AnnParshina/Weapon/Drone.Drone
+[2022.02.26-17.02.53:687][213]LogContentValidation: Display: Validating World /Game/AnnParshina/Levels/All_Objects.All_Objects
+[2022.02.26-17.02.53:755][213]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.02.26-17.02.53:755][213]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.02.26-17.02.53:755][213]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
+[2022.02.26-17.02.53:755][213]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class MainAnimBP_C already exists. Remove duplicates from the animation graph for this class.
